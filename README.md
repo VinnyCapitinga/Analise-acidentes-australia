@@ -2,7 +2,7 @@
 
 ### Um projeto completo de Business Intelligence e Análise de Dados, indo da exploração visual no Power BI até Machine Learning.
 
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot](images/Dashboard1.png)
 
 ##  Objetivo do Projeto
 
